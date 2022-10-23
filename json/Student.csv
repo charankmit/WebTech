@@ -1,0 +1,481 @@
+_id,htno,Name,Gender,Nationality,Placeofbirth,Stageid,Gradeid,SectionID,Topic,Semester,Relation,Raisedhands,Visitedresources,Announcements,Discussion,Parentansweringsurvey,Parentschoolsatisfaction,Studentabsencedays,Class
+1,16BD1A05DQ,N F ABISHAI JOE,M,KW,KuwaIT,lowerlevel,G-04,A,IT,F,Father,15,16,2,20,Yes,Good,Under-7,M
+2,17BD1A05CC,BITLA JEEVAN KUMAR,M,KW,KuwaIT,lowerlevel,G-04,A,IT,F,Father,20,20,3,25,Yes,Good,Under-7,M
+3,17BD1A05CE,CHOTOPALLY VENKATESWARA RAO,M,KW,KuwaIT,lowerlevel,G-04,A,IT,F,Father,10,7,0,30,No,Bad,Above-7,L
+4,17BD1A05D3,MANNE MANIKANTA,M,KW,KuwaIT,lowerlevel,G-04,A,IT,F,Father,30,25,5,35,No,Bad,Above-7,L
+5,18BD1A05C1,AEDDLA SOWMYA,M,KW,KuwaIT,lowerlevel,G-04,A,IT,F,Father,40,50,12,50,No,Bad,Above-7,M
+6,18BD1A05C2,AMTUL BARI UZMA,F,KW,KuwaIT,lowerlevel,G-04,A,IT,F,Father,42,30,13,70,Yes,Bad,Above-7,M
+7,18BD1A05C3,ATRI NANDAN MANTHANI,M,KW,KuwaIT,MiddleSchool,G-07,A,Math,F,Father,35,12,0,17,No,Bad,Above-7,L
+8,18BD1A05C4,AYENDAPALLY GOUTAM SAI,M,KW,KuwaIT,MiddleSchool,G-07,A,Math,F,Father,50,10,15,22,Yes,Good,Under-7,M
+9,18BD1A05C5,BATTA LAKSHMI LIKHITHA,F,KW,KuwaIT,MiddleSchool,G-07,A,Math,F,Father,12,21,16,50,Yes,Good,Under-7,M
+10,18BD1A05C6,BATTU SUMANTH RAJU,F,KW,KuwaIT,MiddleSchool,G-07,B,IT,F,Father,70,80,25,70,Yes,Good,Under-7,M
+11,18BD1A05C7,BATTULA MANISH REDDY,M,KW,KuwaIT,MiddleSchool,G-07,A,Math,F,Father,50,88,30,80,Yes,Good,Under-7,H
+12,18BD1A05C8,BIJULA AKSHAYA,M,KW,KuwaIT,MiddleSchool,G-07,B,Math,F,Father,19,6,19,12,Yes,Good,Under-7,M
+13,18BD1A05C9,C SAMPATI YADAV,M,KW,KuwaIT,lowerlevel,G-04,A,IT,F,Father,5,1,0,11,No,Bad,Above-7,L
+14,18BD1A05CA,DEVULAPALLY ABHINAV,M,lebanon,lebanon,MiddleSchool,G-08,A,Math,F,Father,20,14,12,19,No,Bad,Above-7,L
+15,18BD1A05CB,DHAVALA LAKSHMI SANJANA,F,KW,KuwaIT,MiddleSchool,G-08,A,Math,F,Mum,62,70,44,60,No,Bad,Above-7,H
+16,18BD1A05CC,ESLAVATH SAKKUBAI,F,KW,KuwaIT,MiddleSchool,G-06,A,IT,F,Father,30,40,22,66,Yes,Good,Under-7,M
+17,18BD1A05CD,ETTA CHAMUNDESHWARI DEVI,M,KW,KuwaIT,MiddleSchool,G-07,B,IT,F,Father,36,30,20,80,No,Bad,Above-7,M
+18,18BD1A05CE,GADDAM SAKETH GUPTHA,M,KW,KuwaIT,MiddleSchool,G-07,A,Math,F,Father,55,13,35,90,No,Bad,Above-7,M
+19,18BD1A05CF,GANTA SOHAN,F,KW,KuwaIT,MiddleSchool,G-07,A,IT,F,Mum,69,15,36,96,Yes,Good,Under-7,M
+20,18BD1A05CG,GUDA RESHITHA REDDY,M,KW,KuwaIT,MiddleSchool,G-07,B,IT,F,Mum,70,50,40,99,Yes,Good,Under-7,H
+21,18BD1A05CH,GUTTHIKONDA VAMSHI KRISHNA,F,KW,KuwaIT,MiddleSchool,G-07,A,IT,F,Father,60,60,33,90,No,Bad,Above-7,M
+22,18BD1A05CJ,K HARSHA TEJ REDDY,F,KW,KuwaIT,MiddleSchool,G-07,B,IT,F,Father,10,12,4,80,No,Bad,Under-7,M
+23,18BD1A05CK,KOLIPAKA VENKATA SAI HARSHITHA,M,KW,KuwaIT,MiddleSchool,G-07,A,IT,F,Father,15,21,2,90,No,Bad,Under-7,M
+24,18BD1A05CL,KRISHNA KANTH ASAWA,M,KW,KuwaIT,MiddleSchool,G-07,A,IT,F,Father,2,0,2,50,No,Bad,Above-7,L
+25,18BD1A05CM,KUCHANPELLY NIVRUTH,M,KW,KuwaIT,MiddleSchool,G-07,B,IT,F,Father,0,2,3,70,Yes,Good,Above-7,L
+26,18BD1A05CN,KUDUMULA ANURAGINI,M,KW,KuwaIT,MiddleSchool,G-07,A,IT,F,Father,8,7,30,40,Yes,Good,Above-7,L
+27,18BD1A05CP,KUMMARI SWATHI,M,KW,KuwaIT,MiddleSchool,G-07,B,IT,F,Father,19,19,25,40,Yes,Bad,Under-7,M
+28,18BD1A05CQ,KUSUMA REVANTH,M,KW,KuwaIT,MiddleSchool,G-08,A,Arabic,F,Father,25,15,12,33,No,Bad,Above-7,L
+29,18BD1A05CR,M PRANEETHA,M,KW,KuwaIT,MiddleSchool,G-08,A,Science,F,Father,75,85,52,43,Yes,Good,Under-7,M
+30,18BD1A05CT,MANTHRI SREEJA REDDY,F,KW,KuwaIT,MiddleSchool,G-08,A,Arabic,F,Father,30,90,33,35,No,Bad,Under-7,M
+31,18BD1A05CU,MARRI THANMAI,F,KW,KuwaIT,MiddleSchool,G-08,A,Arabic,F,Father,35,80,50,70,Yes,Good,Under-7,H
+32,18BD1A05CV,MATTA PREETHAM REDDY,M,KW,KuwaIT,MiddleSchool,G-07,A,IT,F,Father,4,5,40,16,Yes,Good,Above-7,L
+33,18BD1A05CW,MEKALA SAI KUMAR,F,KW,KuwaIT,lowerlevel,G-07,A,IT,F,Father,2,19,10,50,Yes,Good,Above-7,L
+34,18BD1A05CX,MOHAMMAD ASADUDDIN,M,KW,KuwaIT,lowerlevel,G-05,A,English,F,Father,8,22,9,40,No,Bad,Above-7,L
+35,18BD1A05CY,MUDAVATH SAI KIRAN,M,KW,KuwaIT,MiddleSchool,G-07,B,Science,F,Father,12,11,8,40,No,Bad,Above-7,L
+36,18BD1A05CZ,MUKKIDI VIVEKVARDHAN,M,KW,KuwaIT,MiddleSchool,G-07,A,English,F,Father,10,12,17,30,No,Bad,Above-7,L
+37,18BD1A05D1,N AISHWARYA,M,KW,KuwaIT,MiddleSchool,G-07,B,Science,F,Mum,8,6,4,22,Yes,Good,Above-7,L
+38,18BD1A05D2,NADDUNURI RAMAKANTH,F,Egypt,Egypt,MiddleSchool,G-07,A,IT,F,Father,45,54,26,90,Yes,Good,Under-7,M
+39,18BD1A05D3,NALLA SAI KEERTHANA,M,KW,KuwaIT,MiddleSchool,G-06,A,IT,F,Father,0,0,0,4,No,Bad,Above-7,L
+40,18BD1A05D4,NIKHILESHWAR GOPI,F,SaudiArabia,SaudiArabia,MiddleSchool,G-07,B,Science,F,Father,50,90,37,70,Yes,Good,Under-7,M
+41,18BD1A05D5,PADALA VIKRAM,F,KW,KuwaIT,MiddleSchool,G-07,A,IT,F,Father,14,13,3,70,No,Bad,Above-7,L
+42,18BD1A05D6,PALADI SAI KUNDAN,M,KW,KuwaIT,MiddleSchool,G-07,A,IT,F,Father,19,20,16,50,No,Good,Under-7,M
+43,18BD1A05D7,PALLERLA SAI KUMAR,M,KW,KuwaIT,HighSchool,G-09,A,IT,F,Father,10,12,7,33,Yes,Good,Above-7,L
+44,18BD1A05D8,PANDALA VAISHNAVI,F,KW,KuwaIT,HighSchool,G-09,A,IT,F,Father,30,35,28,90,Yes,Good,Under-7,M
+45,18BD1A05D9,RUKVITH REDDY LINGALA,F,KW,KuwaIT,HighSchool,G-09,A,IT,F,Father,33,33,30,90,No,Bad,Under-7,M
+46,18BD1A05DA,S SANKETH REDDY,M,KW,KuwaIT,MiddleSchool,G-07,A,Quran,F,Father,20,12,15,70,No,Good,Above-7,L
+47,18BD1A05DB,S.JEEVITESH LAL,M,KW,KuwaIT,lowerlevel,G-05,A,English,F,Father,7,10,1,30,No,Bad,Above-7,L
+48,18BD1A05DC,SAI PRANEETHA VADAKATTU,F,KW,KuwaIT,HighSchool,G-12,A,English,F,Mum,70,4,39,90,Yes,Good,Under-7,H
+49,18BD1A05DD,SAMREDDY RAKSHITHA REDDY,F,KW,KuwaIT,HighSchool,G-12,A,English,F,Mum,13,80,40,88,Yes,Good,Under-7,H
+50,18BD1A05DE,SANKIRTH PABBA,F,KW,KuwaIT,HighSchool,G-12,A,English,F,Father,29,39,50,77,Yes,Good,Under-7,M
+51,18BD1A05DF,SHAIK SHASHAVALI BABA,F,KW,KuwaIT,HighSchool,G-12,A,English,F,Father,20,14,12,70,No,Bad,Above-7,L
+52,18BD1A05DG,SRINIJA DEVERSHETTY,M,KW,KuwaIT,HighSchool,G-12,A,English,F,Father,39,15,16,50,No,Good,Above-7,L
+53,18BD1A05DH,SUMANTH CHOUDARY MUTHINENI,F,KW,KuwaIT,HighSchool,G-12,A,English,F,Father,55,90,16,40,No,Bad,Under-7,M
+54,18BD1A05DJ,T. AYUSHMANN SINGH,F,KW,KuwaIT,HighSchool,G-11,A,Science,F,Mum,49,70,19,75,Yes,Good,Under-7,H
+55,18BD1A05DK,T. SREE SOUMITH,M,KW,KuwaIT,HighSchool,G-12,A,English,F,Mum,12,50,8,30,No,Bad,Above-7,L
+56,18BD1A05DL,TAAK MAMATHA,M,KW,KuwaIT,MiddleSchool,G-07,A,Math,F,Father,16,14,6,20,Yes,Good,Above-7,L
+57,18BD1A05DM,TAKKALGE VEDANTH,M,USA,USA,MiddleSchool,G-08,B,Math,F,Father,19,5,4,1,Yes,Good,Above-7,L
+58,18BD1A05DN,TANETI PRATHYUSH BABU,M,KW,KuwaIT,MiddleSchool,G-07,A,Math,F,Father,5,2,6,5,Yes,Good,Above-7,L
+59,18BD1A05DP,TENUGU VARUN RAJ,M,KW,KuwaIT,MiddleSchool,G-07,A,Math,F,Father,28,60,19,50,Yes,Good,Under-7,M
+60,18BD1A05DQ,TIRUMALASETTY SAHITHYA,F,USA,USA,MiddleSchool,G-07,A,Math,F,Father,27,22,22,40,No,Good,Under-7,M
+61,18BD1A05DR,TWARAKAVI KRISHNA VIHITHA,F,Jordan,Jordan,lowerlevel,G-05,A,English,F,Mum,21,10,28,20,No,Good,Above-7,L
+62,18BD1A05DT,VEMULA PUNEETH SATWIK,M,KW,KuwaIT,HighSchool,G-10,A,IT,F,Father,50,70,32,40,Yes,Good,Under-7,M
+63,18BD5A0575,BITLA SRAVAN,M,venzuela,venzuela,HighSchool,G-10,A,IT,F,Mum,80,90,70,80,Yes,Good,Under-7,H
+64,19BD5A0519,BINDU,M,KW,KuwaIT,HighSchool,G-10,A,IT,F,Father,17,13,16,12,Yes,Bad,Under-7,M
+65,19BD5A0520,JABILI,M,KW,KuwaIT,HighSchool,G-10,A,IT,F,Father,0,5,7,2,No,Bad,Above-7,L
+66,19BD5A0521,GANESH,M,KW,KuwaIT,HighSchool,G-12,A,English,F,Father,13,5,18,19,No,Bad,Above-7,L
+67,19BD5A0522,AKASH,F,KW,KuwaIT,HighSchool,G-12,A,English,F,Father,25,10,19,30,No,Bad,Above-7,M
+68,19BD5A0523,NITISH KUMAR,F,USA,USA,HighSchool,G-12,A,English,F,Mum,65,75,23,80,Yes,Good,Under-7,H
+69,19BD5A0524,PAVANI,F,USA,USA,HighSchool,G-12,A,IT,F,Mum,70,69,35,30,Yes,Good,Under-7,H
+70,19BD5A0525,PRIYANKA,M,Jordan,Jordan,MiddleSchool,G-07,A,IT,F,Father,39,40,11,33,No,Bad,Under-7,M
+71,19BD5A0526,SAIKIRAN GOUD,M,Jordan,Jordan,MiddleSchool,G-07,A,IT,F,Father,22,30,10,12,Yes,Good,Above-7,L
+72,19BD5A0527,MAHESH,M,KW,KuwaIT,MiddleSchool,G-07,A,IT,F,Father,29,22,9,20,Yes,Good,Under-7,M
+73,19BD5A0528,SUCHITH KUMAR,M,KW,KuwaIT,MiddleSchool,G-07,A,Math,F,Father,11,2,2,8,No,Bad,Under-7,L
+74,19BD5A0529,PRUDHVI,F,KW,KuwaIT,MiddleSchool,G-07,A,English,F,Father,19,30,26,19,Yes,Bad,Above-7,M
+75,19BD5A0530,REVANTH,M,KW,KuwaIT,MiddleSchool,G-07,B,IT,F,Father,12,0,6,13,No,Bad,Under-7,L
+76,19BD5A0531,SAI KUMAR,M,Jordan,Jordan,MiddleSchool,G-07,A,Quran,F,Mum,50,90,29,60,Yes,Good,Under-7,M
+77,19BD5A0532,NAVEEN KUMAR,M,Iran,Iran,HighSchool,G-09,A,IT,F,Mum,15,70,37,44,Yes,Good,Under-7,M
+78,19BD5A0533,SAINATH,M,KW,KuwaIT,HighSchool,G-09,A,IT,F,Father,20,80,33,33,Yes,Good,Under-7,M
+79,19BD5A0534,PRUDHVIRAJ,M,KW,KuwaIT,HighSchool,G-11,A,Quran,F,Father,13,3,11,9,No,Bad,Above-7,L
+80,19BD5A0535,SAITEJA,F,lebanon,lebanon,MiddleSchool,G-07,B,Math,F,Mum,80,90,49,55,Yes,Bad,Under-7,H
+81,19BD5A0536,DIVYA,M,KW,KuwaIT,MiddleSchool,G-07,A,Math,F,Father,8,15,10,40,Yes,Bad,Under-7,L
+82,19BD5A0537,ARAVIND KUMAR,M,KW,KuwaIT,lowerlevel,G-02,A,IT,F,Father,8,25,1,70,No,Bad,Above-7,L
+83,19BD5A0538,RAM PRASAD,M,KW,KuwaIT,lowerlevel,G-02,B,IT,F,Father,7,5,2,80,Yes,Good,Above-7,L
+84,19BD5A0539,PROHIT,M,KW,KuwaIT,lowerlevel,G-02,B,IT,F,Father,7,4,10,50,No,Good,Above-7,M
+85,19BD5A0540,NIKHIL SAI,M,KW,KuwaIT,lowerlevel,G-02,B,IT,F,Father,50,70,50,10,Yes,Good,Above-7,H
+86,19BD5A0541,KAVYA,M,KW,KuwaIT,lowerlevel,G-02,B,IT,F,Father,1,0,1,12,No,Bad,Above-7,L
+87,19BD5A0542,NAGENDAR,M,SaudiArabia,SaudiArabia,lowerlevel,G-02,B,IT,F,Father,70,12,40,50,Yes,Good,Under-7,H
+88,16BD1A05A5,PONNAM MADHU,M,KW,KuwaIT,lowerlevel,G-02,B,IT,F,Father,19,70,3,50,No,Bad,Under-7,L
+89,189P1A0560,SRICHARAN VARMA,F,KW,KuwaIT,lowerlevel,G-02,B,IT,F,Father,3,12,4,33,No,Bad,Under-7,L
+90,18BD1A05A1,A SAI PRIANSH GOUD,M,KW,KuwaIT,lowerlevel,G-02,B,IT,F,Father,5,20,1,50,Yes,Good,Above-7,L
+91,18BD1A05A2,AKKU RONITH KRISHNA,M,KW,KuwaIT,lowerlevel,G-02,B,IT,F,Father,4,8,10,60,Yes,Good,Above-7,L
+92,18BD1A05A3,ALLENKI KRUPA,M,KW,KuwaIT,lowerlevel,G-02,B,IT,F,Father,80,90,55,19,Yes,Good,Under-7,H
+93,18BD1A05A4,APPANA BOYANA SAI DHEERAJ KRISHNA,F,KW,KuwaIT,lowerlevel,G-02,B,IT,F,Father,50,70,19,15,Yes,Good,Under-7,H
+94,18BD1A05A5,B ROCHAN SINGH,M,USA,USA,lowerlevel,G-02,B,IT,F,Father,55,89,40,40,Yes,Good,Under-7,H
+95,18BD1A05A6,bhunedri eshwar,F,KW,KuwaIT,lowerlevel,G-02,B,IT,F,Father,80,44,35,10,No,Good,Above-7,L
+96,18BD1A05A7,BINDI AKSHITH GOUD,F,KW,KuwaIT,lowerlevel,G-02,B,IT,F,Father,100,80,2,70,No,Bad,Under-7,H
+97,18BD1A05A8,BITLA HARSHAVARDHAN,F,KW,KuwaIT,lowerlevel,G-02,C,IT,F,Father,14,60,11,75,Yes,Good,Under-7,H
+98,18BD1A05A9,CH SAHITHI REDDY,F,KW,KuwaIT,lowerlevel,G-02,B,IT,F,Father,6,2,38,12,No,Bad,Under-7,M
+99,18BD1A05AA,CHALLA SOUMMITH,F,KW,KuwaIT,lowerlevel,G-02,C,IT,F,Father,10,3,0,30,No,Bad,Under-7,M
+100,18BD1A05AB,CHILAKARAJU RADHIKA,M,KW,KuwaIT,lowerlevel,G-02,B,IT,F,Father,50,7,9,50,Yes,Bad,Above-7,M
+101,18BD1A05AC,DADI BINDU MADHAV,M,KW,KuwaIT,lowerlevel,G-02,B,IT,F,Father,50,90,40,90,Yes,Bad,Under-7,M
+102,18BD1A05AD,DEVANSHI P MEHTA,F,KW,KuwaIT,lowerlevel,G-02,B,IT,F,Mum,70,92,50,7,Yes,Good,Under-7,H
+103,18BD1A05AE,E MANISH,F,KW,KuwaIT,lowerlevel,G-02,B,IT,F,Father,2,6,2,8,No,Bad,Above-7,L
+104,18BD1A05AF,GADAM SWEEYA,M,KW,KuwaIT,lowerlevel,G-02,B,IT,F,Father,1,7,6,10,No,Bad,Above-7,L
+105,18BD1A05AG,GOPU MARY ASHWITHA,M,KW,KuwaIT,lowerlevel,G-02,B,IT,F,Father,0,12,3,3,Yes,Good,Above-7,M
+106,18BD1A05AH,GUMMIDI PADMAVATHI,F,KW,KuwaIT,lowerlevel,G-02,B,IT,F,Father,0,0,5,80,Yes,Good,Above-7,L
+107,18BD1A05AJ,JALA SAI SRIRAJ,F,KW,KuwaIT,lowerlevel,G-02,B,IT,F,Father,12,26,7,40,Yes,Good,Under-7,M
+108,18BD1A05AK,JOGINIPELLY SAI TEJA,M,KW,KuwaIT,lowerlevel,G-02,B,IT,F,Father,70,90,41,33,Yes,Bad,Under-7,H
+109,18BD1A05AL,KADIUM MANISHA,M,SaudiArabia,SaudiArabia,lowerlevel,G-02,B,IT,F,Father,7,12,5,3,No,Bad,Above-7,M
+110,18BD1A05AM,KASANI JAYASIMHA,M,KW,KuwaIT,lowerlevel,G-02,B,IT,F,Father,90,70,30,14,No,Bad,Under-7,M
+111,18BD1A05AN,KOMATIREDDY NITHIN REDDY,F,Jordan,Jordan,lowerlevel,G-02,B,IT,F,Mum,70,88,55,40,Yes,Good,Under-7,H
+112,18BD1A05AP,KONDAPALLY AKSHAY,M,KW,KuwaIT,lowerlevel,G-02,C,IT,F,Father,77,80,51,80,No,Good,Under-7,M
+113,18BD1A05AQ,MADDIKUNTLA NITHYA SRI REDDY,M,KW,KuwaIT,lowerlevel,G-02,B,IT,F,Father,2,5,3,50,No,Bad,Above-7,L
+114,18BD1A05AR,MEKALA TANISHQ,M,KW,KuwaIT,lowerlevel,G-02,B,IT,F,Father,25,27,0,69,No,Bad,Above-7,L
+115,18BD1A05AT,MOHD YASEEN AHMED,M,KW,KuwaIT,lowerlevel,G-02,B,IT,F,Father,11,2,0,50,No,Bad,Above-7,L
+116,18BD1A05AU,MOHD ZABEE UR RAHMAN,M,KW,KuwaIT,lowerlevel,G-02,B,IT,F,Father,0,8,11,70,Yes,Good,Above-7,L
+117,18BD1A05AV,MYLAVARAPU LOKESH,F,KW,KuwaIT,lowerlevel,G-02,C,IT,F,Mum,77,80,12,19,Yes,Good,Above-7,M
+118,18BD1A05AW,N ROHITH TEJA,F,KW,KuwaIT,lowerlevel,G-02,C,IT,F,Mum,25,29,40,17,No,Good,Under-7,H
+119,18BD1A05AX,NADIKUDE MANISH,F,KW,KuwaIT,lowerlevel,G-02,C,IT,F,Mum,24,35,23,22,Yes,Good,Above-7,M
+120,18BD1A05AY,NEELAPALA MOHAN CHAND,M,KW,KuwaIT,lowerlevel,G-02,C,IT,F,Father,60,60,3,60,No,Bad,Under-7,M
+121,18BD1A05AZ,NISHCHAL SINGI,M,KW,KuwaIT,lowerlevel,G-02,C,IT,F,Mum,21,12,0,50,Yes,Good,Under-7,M
+122,18BD1A05B1,NITESH CHOKKARAPU,M,KW,KuwaIT,lowerlevel,G-02,C,IT,F,Mum,0,4,8,30,No,Bad,Above-7,L
+123,18BD1A05B2,P SAI VARSHITH,F,KW,KuwaIT,lowerlevel,G-02,B,IT,F,Father,66,90,55,12,Yes,Good,Above-7,M
+124,18BD1A05B3,PADAKANTI ADITHYA REDDY,F,lebanon,lebanon,lowerlevel,G-02,B,IT,F,Father,70,98,7,5,Yes,Good,Under-7,M
+125,18BD1A05B4,PADALA MALAVIKA,M,KW,KuwaIT,lowerlevel,G-02,C,IT,F,Father,0,6,4,15,Yes,Bad,Under-7,L
+126,18BD1A05B5,PARVATANENI TRISHOOL,M,KW,KuwaIT,lowerlevel,G-02,B,IT,F,Father,12,30,0,17,No,Good,Above-7,L
+127,18BD1A05B6,PASHAM JAYA KRISHNA,F,Iran,Iran,lowerlevel,G-02,C,IT,F,Father,2,9,7,55,Yes,Good,Under-7,M
+128,18BD1A05B7,PIPPADAPALLY SHIVAKETHAKI,M,KW,KuwaIT,lowerlevel,G-02,B,IT,F,Father,55,33,6,9,No,Bad,Above-7,L
+129,18BD1A05B8,PRANATHI SUDHIREDDY,M,KW,KuwaIT,lowerlevel,G-02,C,IT,F,Father,12,10,20,16,No,Bad,Under-7,L
+130,18BD1A05B9,PREKSHA ADDAGATLA,M,KW,KuwaIT,lowerlevel,G-02,B,IT,F,Father,70,90,2,2,Yes,Good,Under-7,L
+131,18BD1A05BA,PUDURI PHANINDRA,F,KW,KuwaIT,lowerlevel,G-02,C,IT,F,Father,7,9,5,30,No,Bad,Above-7,L
+132,18BD1A05BB,PULIPAKA SRUJITH,M,Jordan,Jordan,lowerlevel,G-02,C,IT,F,Father,80,42,20,50,Yes,Good,Under-7,M
+133,18BD1A05BC,R M AKSHAY KUMAR,M,KW,KuwaIT,lowerlevel,G-02,C,IT,S,Father,0,3,10,3,No,Bad,Above-7,L
+134,18BD1A05BD,RACHAKONDA ABHISHEK,M,KW,KuwaIT,lowerlevel,G-02,A,IT,S,Father,12,60,0,70,Yes,Good,Above-7,L
+135,18BD1A05BE,RAJURI SAMEEKSHA,M,KW,KuwaIT,MiddleSchool,G-07,A,Quran,S,Father,80,80,15,70,Yes,Good,Under-7,H
+136,18BD1A05BF,RAMELLI ADITHYA,F,Egypt,Egypt,MiddleSchool,G-07,A,Quran,S,Mum,70,80,95,70,Yes,Good,Under-7,H
+137,18BD1A05BG,SACHIN JAIN,F,KW,USA,HighSchool,G-11,A,Quran,S,Mum,70,80,95,70,Yes,Good,Under-7,H
+138,18BD1A05BH,SADULA KEERTHI,F,KW,USA,HighSchool,G-11,A,Quran,F,Mum,60,80,50,40,No,Bad,Under-7,M
+139,18BD1A05BJ,SAI SARATH CHANDRA MURTHY,F,Jordan,Egypt,MiddleSchool,G-07,A,Quran,F,Mum,100,80,95,90,No,Bad,Under-7,H
+140,18BD1A05BK,SANKALAPURAM ADARSH KUMAR,M,Jordan,USA,MiddleSchool,G-07,A,Quran,F,Mum,100,85,85,70,No,Bad,Under-7,M
+141,18BD1A05BL,SANKINENI HRITHIKESH,M,Tunis,Tunis,MiddleSchool,G-07,A,Quran,F,Father,10,60,5,20,Yes,Bad,Above-7,L
+142,18BD1A05BM,SANKSHAY PUSA,M,Tunis,Tunis,MiddleSchool,G-07,A,Quran,S,Father,19,65,50,10,No,Bad,Above-7,L
+143,18BD1A05BN,SHAIK AZEEZ,M,Tunis,Tunis,MiddleSchool,G-07,A,Quran,S,Father,10,75,55,11,Yes,Good,Under-7,M
+144,18BD1A05BP,SIDDHARTH UNIYAL,M,KW,KuwaIT,MiddleSchool,G-07,A,Quran,S,Father,80,90,55,19,Yes,Good,Under-7,H
+145,18BD1A05BQ,SURYAPETA SHRUTHI SHREE,M,KW,KuwaIT,MiddleSchool,G-07,A,Quran,S,Father,10,10,15,19,No,Bad,Above-7,L
+146,18BD1A05BR,SYPUREDDY HEMANTH PAVAN KUMAR,M,Tunis,SaudiArabia,MiddleSchool,G-07,A,Quran,S,Father,70,75,55,11,Yes,Bad,Under-7,M
+147,18BD1A05BT,VAKA GEETHIKA,F,lebanon,lebanon,MiddleSchool,G-07,A,Quran,S,Mum,100,75,50,70,Yes,Good,Under-7,H
+148,18BD1A05BU,YASA NANDINI,F,lebanon,lebanon,MiddleSchool,G-07,A,Quran,S,Father,10,79,30,30,No,Bad,Under-7,M
+149,18PQ1A0589,SAI SHARAN,F,Jordan,Jordan,MiddleSchool,G-07,A,Quran,S,Father,60,55,30,40,No,Bad,Under-7,M
+150,19BD5A0516,REVANTH,F,Jordan,lebanon,MiddleSchool,G-07,A,Quran,S,Mum,100,75,50,70,Yes,Bad,Under-7,H
+151,19BD5A0517,G SHALINI,M,SaudiArabia,SaudiArabia,HighSchool,G-11,A,Quran,S,Father,80,80,51,59,Yes,Good,Under-7,H
+152,19BD5A0518,LIKHITHA SRIPATHI,M,SaudiArabia,USA,HighSchool,G-11,A,Science,S,Father,23,63,71,89,Yes,Good,Under-7,M
+153,16BD1A056W,KURAKULA ARVIND KUMAR,F,SaudiArabia,USA,HighSchool,G-11,B,Science,S,Father,100,91,98,40,Yes,Bad,Under-7,H
+154,16BD1A05A5,PONNAM MADHU,M,SaudiArabia,USA,HighSchool,G-11,B,Spanish,S,Father,10,51,40,40,No,Bad,Above-7,L
+155,16BD1A05DQ,N F ABISHAI JOE,M,SaudiArabia,USA,HighSchool,G-11,B,English,S,Father,70,50,33,41,No,Bad,Above-7,M
+156,16BD1A1233,NAYANI VENKATESH REDDY,M,SaudiArabia,USA,HighSchool,G-11,B,Math,S,Father,70,58,73,91,Yes,Bad,Under-7,H
+157,15BD1A1218,GUDUR NIKHIL SARMA,F,Tunis,USA,HighSchool,G-11,B,French,S,Father,70,50,30,49,Yes,Good,Under-7,M
+158,17BD1A05CC,BITLA JEEVAN KUMAR,M,Tunis,Tunis,HighSchool,G-11,B,Science,S,Father,70,50,33,40,No,Good,Under-7,M
+159,17BD1A0579,MOHAMMED NADEEM AFROZ,M,Tunis,KuwaIT,MiddleSchool,G-07,B,Science,S,Father,22,51,48,10,No,Bad,Above-7,L
+160,17BD1A0459,VIJJINI DHANUSH,F,KW,KuwaIT,MiddleSchool,G-07,B,Science,S,Father,62,68,48,80,Yes,Good,Under-7,M
+161,17BD1A04A9,RAYEENI SAI KRISHNA,F,Jordan,Jordan,MiddleSchool,G-07,B,Science,S,Mum,82,89,58,50,Yes,Good,Under-7,H
+162,17BD1A1011,BOMMALA CHIRANJEEVI,M,Jordan,Jordan,MiddleSchool,G-07,B,Science,S,Mum,72,80,58,66,No,Bad,Under-7,M
+163,17BD5A1001,ADEPU VANI,F,Jordan,Jordan,lowerlevel,G-02,B,French,S,Mum,70,82,3,73,No,Bad,Under-7,H
+164,17BD1A0445,RAIKANTI LOKESH RAJ,F,Jordan,USA,lowerlevel,G-02,B,French,S,Mum,60,82,93,43,No,Bad,Above-7,M
+165,17BD1A04A4,NARSIMAIH SURESH SHARATH BABU,M,Jordan,Jordan,lowerlevel,G-02,B,French,S,Mum,55,72,83,14,Yes,Good,Above-7,M
+166,17BD1A04B3,SAYANA SAI BRAHMA TEJA,F,Morocco,Morocco,lowerlevel,G-02,B,French,S,Mum,72,65,73,66,Yes,Good,Under-7,H
+167,17BD1A05CE,CHOTOPALLY VENKATESWARA RAO,M,KW,KuwaIT,lowerlevel,G-02,B,French,S,Mum,51,82,53,43,No,Bad,Under-7,M
+168,17BD1A05D3,MANNE MANIKANTA,M,Tunis,Tunis,lowerlevel,G-02,B,French,S,Mum,80,92,83,43,Yes,Good,Under-7,H
+169,17BD1A1002,ACHINTHYA M GUJJAR,M,KW,KuwaIT,lowerlevel,G-02,B,French,S,Mum,60,52,23,33,Yes,Good,Under-7,H
+170,17BD1A1209,CH SRI VENKAT SAI PRASANTH,M,KW,KuwaIT,lowerlevel,G-02,B,French,S,Mum,30,12,29,23,No,Bad,Under-7,M
+171,17BD1A1212,CHIGURLAPALLI SAI KUMAR,M,KW,KuwaIT,lowerlevel,G-02,B,French,S,Father,40,62,83,33,Yes,Good,Under-7,H
+172,17BD1A1215,DAIDA PAVAN,M,KW,KuwaIT,lowerlevel,G-02,B,French,S,Mum,60,52,23,33,No,Good,Under-7,M
+173,18BD5A0418,NAMALA VENKAT SAI,M,Iran,Iran,lowerlevel,G-02,B,French,S,Mum,20,22,53,13,No,Good,Above-7,L
+174,18BD5A0414,CHETTY PRANAV,M,Syria,Syria,lowerlevel,G-02,B,French,S,Mum,20,52,23,33,Yes,Good,Above-7,L
+175,18BD5A1007,MONDRU DIVYA,F,Jordan,Jordan,lowerlevel,G-02,B,French,S,Father,50,62,73,43,Yes,Bad,Above-7,M
+176,18BD1A0521,A MANUDEEP,M,Iran,Iran,lowerlevel,G-02,B,French,S,Father,10,2,13,53,No,Bad,Above-7,L
+177,18BD1A0561,A SAI VIJAYA BHARGAVI,M,Tunis,Tunis,lowerlevel,G-02,B,French,S,Mum,60,52,23,33,Yes,Bad,Under-7,H
+178,18BD1A0542,AADHI KESHAVA REDDY BURRU,F,USA,USA,lowerlevel,G-02,B,French,S,Mum,15,52,83,11,Yes,Bad,Under-7,M
+179,18BD1A0582,AAVULA SHIVANI,F,lebanon,lebanon,lowerlevel,G-02,B,French,S,Mum,80,42,33,13,Yes,Bad,Under-7,H
+180,18BD1A0543,ABDUL RAHMAN OSAMA,M,lebanon,lebanon,lowerlevel,G-02,B,French,S,Mum,40,51,20,33,No,Bad,Under-7,M
+181,18BD1A0544,ABHISHEK RANGI,F,SaudiArabia,SaudiArabia,lowerlevel,G-02,B,French,S,Father,60,70,63,93,Yes,Bad,Under-7,H
+182,18BD1A058M,KHETAVATH SAHITHI,M,Jordan,Jordan,lowerlevel,G-02,B,French,S,Father,50,62,13,33,No,Bad,Above-7,L
+183,18BD1A0546,ADITI KUNATI,M,KW,KuwaIT,MiddleSchool,G-08,A,Arabic,S,Mum,85,75,62,53,Yes,Bad,Under-7,H
+184,18BD1A0522,ADULAPURAM BHANDAVI,F,lebanon,lebanon,MiddleSchool,G-08,A,Arabic,S,Father,25,15,32,53,No,Bad,Under-7,M
+185,18BD1A05C1,AEDDLA SOWMYA,M,lebanon,lebanon,MiddleSchool,G-08,A,Arabic,S,Mum,10,35,30,13,No,Bad,Above-7,L
+186,18BD1A05A2,AKKU RONITH KRISHNA,M,lebanon,Jordan,MiddleSchool,G-08,A,Arabic,S,Mum,87,65,82,33,Yes,Good,Under-7,H
+187,18BD1A0584,AKSHITA REDDY MAVURAPU,M,KW,KuwaIT,MiddleSchool,G-08,A,Arabic,S,Mum,85,15,22,53,Yes,Good,Under-7,M
+188,18BD1A0585,ANDRA ARAVIND,F,KW,KuwaIT,MiddleSchool,G-08,A,Arabic,S,Father,80,71,52,51,Yes,Good,Under-7,M
+189,18BD1A0523,ANUMANDLA SRI RAM REDDY,M,KW,KuwaIT,MiddleSchool,G-08,A,Arabic,S,Mum,75,71,72,53,Yes,Good,Under-7,H
+190,18BD1A0525,ARYAN SINGH ANTERVEDI,F,KW,KuwaIT,MiddleSchool,G-08,A,Arabic,S,Father,85,66,12,23,No,Bad,Under-7,M
+191,18BD1A0526,ATIPAMULA AKHIL,M,KW,KuwaIT,MiddleSchool,G-08,A,Arabic,S,Father,23,25,32,53,No,Bad,Under-7,L
+192,18BD1A05C4,AYENDAPALLY GOUTAM SAI,M,KW,KuwaIT,MiddleSchool,G-08,A,Arabic,S,Father,15,25,37,13,Yes,Good,Above-7,L
+193,18BD1A05A5,B ROCHAN SINGH,M,KW,KuwaIT,MiddleSchool,G-08,A,Arabic,S,Mum,95,91,62,53,Yes,Good,Under-7,M
+194,18BD1A0564,B SHIVANI GOUD,M,Morocco,Morocco,MiddleSchool,G-08,A,Arabic,S,Mum,81,75,62,53,No,Bad,Under-7,M
+195,18BD1A0586,BAIRU SHASHI KANTH,M,Morocco,Morocco,MiddleSchool,G-08,A,Arabic,S,Mum,53,75,72,23,No,Bad,Under-7,M
+196,18BD1A0587,BANDA NIVEDITHA REDDY,M,KW,KuwaIT,MiddleSchool,G-08,A,Arabic,S,Father,15,43,42,33,Yes,Good,Under-7,M
+197,18BD1A054A,BANDI SIRISHA,M,KW,KuwaIT,MiddleSchool,G-08,A,Arabic,S,Mum,92,65,62,53,Yes,Good,Under-7,H
+198,18BD1A0588,BANGARU SREE CHARAN DATTA,M,KW,KuwaIT,MiddleSchool,G-08,A,Arabic,S,Mum,83,75,62,53,No,Bad,Under-7,H
+199,18BD1A0589,BARADI KALYANI,M,Morocco,Morocco,MiddleSchool,G-08,B,Arabic,S,Father,27,15,42,53,No,Bad,Above-7,L
+200,18BD1A058A,BASI REDDY VENKATA SAI KISHAN REDDY,M,KW,KuwaIT,MiddleSchool,G-08,B,Arabic,S,Father,45,95,12,13,No,Bad,Under-7,M
+201,18BD1A054B,BATHINI AMULYA,M,KW,KuwaIT,MiddleSchool,G-08,B,Arabic,S,Mum,15,90,52,83,Yes,Bad,Under-7,H
+202,18BD1A05C5,BATTA LAKSHMI LIKHITHA,F,lebanon,lebanon,MiddleSchool,G-08,A,Arabic,S,Mum,45,58,52,43,Yes,Good,Under-7,H
+203,18BD1A05C6,BATTU SUMANTH RAJU,M,KW,KuwaIT,MiddleSchool,G-08,B,Arabic,S,Father,25,5,12,33,Yes,Good,Under-7,M
+204,18BD1A05C7,BATTULA MANISH REDDY,F,KW,KuwaIT,MiddleSchool,G-08,B,Arabic,S,Father,22,51,42,40,Yes,Bad,Under-7,M
+205,18BD1A054C,BEJUGAM SNEHA,M,Jordan,Jordan,MiddleSchool,G-08,B,Arabic,S,Father,29,10,12,24,No,Bad,Above-7,L
+206,18BD1A0527,BELLAM PAVAN KUMAR,F,SaudiArabia,SaudiArabia,MiddleSchool,G-08,B,Arabic,S,Mum,72,51,42,24,Yes,Bad,Above-7,H
+207,18BD1A0507,BHAVANA UPPALAPATI,M,KW,KuwaIT,MiddleSchool,G-08,B,Arabic,S,Father,67,31,42,14,Yes,Good,Under-7,M
+208,18BD1A0539,KOYALKAR SRI HARSHA,M,KW,KuwaIT,MiddleSchool,G-08,C,Spanish,S,Father,17,21,42,14,Yes,Good,Under-7,M
+209,18BD1A05A7,BINDI AKSHITH GOUD,M,Tunis,Tunis,MiddleSchool,G-08,C,Spanish,S,Mum,27,41,49,14,No,Bad,Under-7,M
+210,18BD1A05A8,BITLA HARSHAVARDHAN,M,KW,KuwaIT,MiddleSchool,G-08,C,Spanish,S,Father,70,81,39,84,No,Bad,Under-7,M
+211,18BD1A0528,BODAPATI ABHISHEK,M,Jordan,SaudiArabia,MiddleSchool,G-08,C,Spanish,S,Mum,27,90,82,14,Yes,Good,Under-7,H
+212,18BD1A054D,BODDU PALLAVI,M,KW,KuwaIT,MiddleSchool,G-08,C,Spanish,S,Father,17,61,42,14,No,Bad,Under-7,M
+213,18BD1A058B,BONAGIRI BALAJI,M,Tunis,Tunis,MiddleSchool,G-08,C,Spanish,S,Mum,87,81,42,19,Yes,Good,Under-7,H
+214,18BD1A0567,BURRA SAITHARUN,M,Tunis,Tunis,MiddleSchool,G-08,C,Spanish,S,Father,7,61,22,14,No,Bad,Above-7,L
+215,18BD1A052A,BYREDDY NIKSHITH REDDY,M,KW,KuwaIT,MiddleSchool,G-08,C,Spanish,S,Father,17,50,2,4,No,Bad,Above-7,L
+216,18BD1A0568,CELVAJI ANUJ RAO,M,KW,KuwaIT,MiddleSchool,G-08,C,Spanish,S,Father,5,21,42,14,No,Good,Above-7,L
+217,18BD1A0569,CH HAKILAH SHULAMITE,M,Iran,Iran,MiddleSchool,G-08,C,Spanish,S,Mum,27,41,32,61,Yes,Bad,Above-7,M
+218,18BD1A05AA,CHALLA SOUMMITH,F,Jordan,KuwaIT,MiddleSchool,G-08,C,Spanish,S,Father,87,88,40,10,Yes,Good,Under-7,M
+219,18BD1A056A,CHIGURUPATI KANDITHA PAVANI,M,KW,KuwaIT,MiddleSchool,G-08,C,Spanish,S,Mum,96,61,42,94,Yes,Bad,Under-7,H
+220,18BD1A05AB,CHILAKARAJU RADHIKA,M,KW,KuwaIT,MiddleSchool,G-08,C,Spanish,S,Mum,57,51,46,34,Yes,Good,Under-7,M
+221,18BD1A056B,CHILAPPAGARI ANANTHA KRISHNA,M,lebanon,lebanon,MiddleSchool,G-08,C,Spanish,S,Father,77,69,41,13,Yes,Good,Under-7,M
+222,18BD1A054F,CHILLARA SIVASAI ANKIT,M,lebanon,lebanon,MiddleSchool,G-08,C,Spanish,S,Father,80,51,40,24,No,Good,Under-7,M
+223,18BD1A056C,CHINTHA RAASHMI,M,KW,KuwaIT,MiddleSchool,G-08,B,Spanish,S,Father,62,61,82,40,Yes,Bad,Under-7,M
+224,18BD1A052B,CHITHARI ANVESH,M,KW,KuwaIT,MiddleSchool,G-08,A,Spanish,S,Mum,72,83,12,90,Yes,Good,Under-7,H
+225,18BD1A058C,D SAI JAHNAVI,M,KW,KuwaIT,MiddleSchool,G-08,B,Spanish,S,Mum,87,81,22,70,Yes,Bad,Under-7,H
+226,18BD1A05AC,DADI BINDU MADHAV,M,KW,KuwaIT,MiddleSchool,G-08,A,Spanish,S,Mum,72,90,12,30,No,Bad,Under-7,M
+227,18BD1A058F,DANDU NETHRANAND,M,KW,KuwaIT,MiddleSchool,G-08,B,Spanish,S,Father,2,11,62,30,No,Bad,Under-7,L
+228,18BD1A058G,DASI SRUJANA,M,KW,KuwaIT,MiddleSchool,G-08,A,Spanish,S,Father,5,3,2,10,Yes,Good,Under-7,L
+229,18BD1A058H,DECHIRAZU VENKATA SESHA SOUNDARYA,M,KW,KuwaIT,HighSchool,G-11,B,Math,S,Mum,73,84,77,81,Yes,Good,Above-7,H
+230,18BD1A056E,DEGALA JOSHI,M,KW,KuwaIT,MiddleSchool,G-08,A,Spanish,S,Father,5,17,21,10,No,Bad,Above-7,L
+231,18BD1A054H,DENDUKURI NIGAMA ANNAPURNA,M,Iran,Iran,MiddleSchool,G-08,A,Spanish,S,Mum,51,42,12,29,No,Bad,Above-7,M
+232,18BD1A052C,DEVAKI MITHILESH KUMAR,M,Syria,Jordan,MiddleSchool,G-08,A,Spanish,S,Father,9,7,21,20,Yes,Good,Above-7,L
+233,18BD1A056F,DHONDI HARISH,M,Syria,Syria,MiddleSchool,G-07,A,Quran,F,Father,19,72,15,50,Yes,Good,Above-7,M
+234,18BD1A054J,DINESH REDDY RAVULA,F,Jordan,Jordan,MiddleSchool,G-07,B,Science,S,Mum,32,80,58,46,Yes,Good,Above-7,M
+235,18BD1A056G,DIVYA VARSHINI SURAVARAM,M,KW,KuwaIT,MiddleSchool,G-07,B,Science,S,Mum,32,60,58,66,Yes,Good,Above-7,M
+236,18BD1A052E,DODLA ABHIGNA,M,KW,KuwaIT,MiddleSchool,G-07,B,Science,S,Father,12,8,18,26,No,Bad,Above-7,L
+237,18BD1A052F,DOMADA KARTHIK,M,Jordan,Jordan,MiddleSchool,G-07,B,Science,S,Father,52,10,13,6,No,Bad,Above-7,L
+238,18BD1A052G,DORNALA SIRI,M,KW,KuwaIT,MiddleSchool,G-07,B,Science,S,Father,72,80,58,66,Yes,Good,Above-7,M
+239,18BD1A05AE,E MANISH,F,KW,KuwaIT,MiddleSchool,G-07,B,Science,S,Mum,72,80,58,66,Yes,Good,Above-7,M
+240,18BD1A056H,E NIKHILA,M,Egypt,Egypt,MiddleSchool,G-07,B,Science,S,Mum,92,80,88,76,Yes,Good,Under-7,H
+241,18BD1A058J,EDIGI VAISHNAVI,M,KW,KuwaIT,MiddleSchool,G-07,B,Science,S,Mum,72,80,98,96,Yes,Bad,Under-7,H
+242,18BD1A056J,ELLABOINA REVATHI,M,Egypt,Egypt,MiddleSchool,G-07,B,Science,S,Father,72,80,58,86,Yes,Good,Under-7,M
+243,18BD1A052H,ESHWAR PRABHAKAR KARRA,M,KW,KuwaIT,MiddleSchool,G-07,B,Science,S,Father,22,20,18,6,No,Bad,Above-7,L
+244,18BD1A05CC,ESLAVATH SAKKUBAI,M,Egypt,KuwaIT,MiddleSchool,G-07,B,Science,S,Father,12,20,38,46,No,Bad,Above-7,M
+245,18BD1A05CD,ETTA CHAMUNDESHWARI DEVI,M,KW,KuwaIT,MiddleSchool,G-07,B,IT,S,Mum,70,92,83,85,Yes,Bad,Under-7,H
+246,18BD1A052J,FIRDOUS AFREEN,F,KW,KuwaIT,MiddleSchool,G-06,A,IT,S,Father,50,40,52,66,Yes,Bad,Under-7,M
+247,18BD1A052K,G M RUPESSH METRA,F,KW,KuwaIT,MiddleSchool,G-06,A,Science,S,Father,80,94,62,77,Yes,Good,Under-7,H
+248,18BD1A054K,G REETHIKA,F,KW,KuwaIT,MiddleSchool,G-06,A,Math,S,Father,87,48,82,96,No,Bad,Above-7,M
+249,18BD1A05CE,GADDAM SAKETH GUPTHA,F,KW,KuwaIT,MiddleSchool,G-06,A,Quran,S,Father,70,40,2,16,No,Bad,Above-7,L
+250,18BD1A050B,GANAPURAM SUSHMA,M,KW,KuwaIT,lowerlevel,G-04,A,IT,S,Father,65,86,62,40,No,Good,Above-7,M
+251,18BD1A052L,GANGABOYINA SAATHVIKA,M,KW,KuwaIT,lowerlevel,G-04,A,Math,S,Father,15,6,32,40,Yes,Good,Under-7,H
+252,18BD1A05CF,GANTA SOHAN,M,Egypt,Egypt,lowerlevel,G-04,A,English,S,Mum,19,74,32,17,No,Good,Above-7,L
+253,18BD1A054L,GATTU PRATHYUSHA,F,KW,KuwaIT,lowerlevel,G-04,A,Science,S,Father,69,76,82,94,No,Bad,Under-7,M
+254,18BD1A050C,GAURAV DALIYA,M,KW,KuwaIT,lowerlevel,G-04,A,Arabic,S,Father,39,26,12,44,No,Bad,Above-7,L
+255,18BD1A052M,GOLANAKONDA MADHURI,M,KW,KuwaIT,lowerlevel,G-04,A,English,S,Father,59,97,42,70,Yes,Good,Under-7,H
+256,18BD1A056L,GOLLURI AKHILA,M,KW,KuwaIT,lowerlevel,G-04,A,History,S,Father,10,17,12,40,Yes,Good,Under-7,H
+257,18BD1A054M,GONE YOGANANDA SRIHARI PRASAD,F,KW,KuwaIT,lowerlevel,G-04,A,History,S,Mum,80,87,72,60,No,Good,Under-7,H
+258,18BD1A054N,GREESHMA KENCHE,F,KW,KuwaIT,lowerlevel,G-04,A,History,S,Father,70,99,66,65,No,Good,Under-7,M
+259,18BD1A054P,GUJJULA V A N LALITHA PRIYA,F,KW,KuwaIT,lowerlevel,G-04,A,History,S,Father,80,97,86,95,Yes,Good,Under-7,M
+260,18BD1A052N,GULLAPALLY SAI NAGA SOUJANYA,M,KW,KuwaIT,lowerlevel,G-04,A,English,S,Mum,69,34,12,17,No,Bad,Above-7,L
+261,18BD1A05AH,GUMMIDI PADMAVATHI,M,KW,KuwaIT,lowerlevel,G-04,A,History,S,Father,10,17,12,14,No,Bad,Above-7,L
+262,18BD1A059T,VUNNAMATLA ABHISHEK,M,KW,KuwaIT,lowerlevel,G-04,A,History,S,Father,61,97,82,64,Yes,Bad,Above-7,M
+263,18BD1A05DD,SAMREDDY RAKSHITHA REDDY,F,KW,KuwaIT,lowerlevel,G-04,A,History,S,Mum,21,27,52,34,Yes,Good,Above-7,M
+264,18BD1A055D,POLKAMPALLY NIKHIL,M,Egypt,Egypt,lowerlevel,G-04,A,Math,S,Mum,49,94,42,7,No,Bad,Above-7,M
+265,18BD1A05BJ,SAI SARATH CHANDRA MURTHY,F,Jordan,Jordan,MiddleSchool,G-06,A,English,F,Mum,70,64,42,32,No,Bad,Under-7,M
+266,18BD1A05AX,NADIKUDE MANISH,F,Jordan,Jordan,MiddleSchool,G-06,A,English,S,Mum,79,84,82,37,No,Bad,Under-7,H
+267,18BD1A051M,VISHWANTHAM ROHIT,M,Jordan,Jordan,MiddleSchool,G-06,A,English,F,Father,19,80,12,17,Yes,Good,Above-7,M
+268,18BD1A052W,KAJA SAI DHANUSH,M,Jordan,Jordan,MiddleSchool,G-06,A,English,S,Father,11,70,32,29,Yes,Good,Above-7,M
+269,18BD1A05B9,PREKSHA ADDAGATLA,M,Jordan,Jordan,MiddleSchool,G-06,A,English,F,Father,10,8,10,10,Yes,Bad,Above-7,M
+270,18BD1A053P,THAMISHETTY BHAVANA,M,Jordan,Jordan,MiddleSchool,G-06,A,English,S,Father,18,28,40,20,Yes,Bad,Above-7,M
+271,18BD1A1240,NAMIRA AHMED,F,Jordan,Jordan,MiddleSchool,G-06,A,English,F,Mum,90,84,52,30,No,Good,Under-7,H
+272,18BD1A1024,KANNEKANTI ADITYA,F,Jordan,Jordan,MiddleSchool,G-06,A,English,S,Mum,92,81,32,36,No,Good,Under-7,M
+273,18BD1A0421,K DHIREN REDDY,M,Jordan,Jordan,MiddleSchool,G-06,A,English,F,Father,42,21,2,16,No,Bad,Under-7,M
+274,18BD1A04A5,RATHNAM KASHINATH,M,Jordan,Jordan,MiddleSchool,G-06,A,English,S,Father,22,20,6,26,No,Bad,Under-7,H
+275,18BD1A053U,VEGESNA SANJANA,F,lebanon,lebanon,MiddleSchool,G-06,A,English,F,Mum,95,82,82,70,Yes,Good,Under-7,H
+276,18BD1A0464,BANOTH MANIKIRAN NAIK,F,lebanon,lebanon,MiddleSchool,G-06,A,English,S,Mum,90,62,80,60,Yes,Good,Under-7,H
+277,18BD1A0428,KARKA SHREYA,M,Palestine,Jordan,MiddleSchool,G-06,A,English,F,Mum,72,21,22,26,Yes,Good,Under-7,H
+278,18BD1A0496,MUDDASU MANASA,M,Palestine,Jordan,MiddleSchool,G-06,A,English,S,Mum,92,31,42,27,Yes,Good,Under-7,H
+279,18BD1A0407,BALERAO NIKITHA,M,Palestine,Jordan,MiddleSchool,G-06,A,English,F,Mum,82,31,52,25,No,Good,Under-7,M
+280,18BD1A0487,MAIDAM BHUVANESHWARI,M,Palestine,Jordan,MiddleSchool,G-06,A,English,S,Mum,72,41,46,27,No,Good,Under-7,M
+281,18BD1A0468,BUDIGAPAGU MAHESH,M,Iraq,Iraq,MiddleSchool,G-06,A,English,F,Mum,74,71,56,37,No,Good,Under-7,H
+282,18BD1A04B4,TOGARE KARTHIK,M,Iraq,Iraq,MiddleSchool,G-06,A,English,S,Mum,74,60,56,37,No,Good,Under-7,H
+283,18BD1A0460,VENNAPPA SAI SANTHOSH,F,Jordan,Jordan,MiddleSchool,G-06,A,English,F,Mum,95,94,72,80,No,Good,Under-7,H
+284,18BD1A0411,CHOWKE DIVYA,F,Jordan,Jordan,MiddleSchool,G-06,A,English,S,Mum,97,87,82,86,No,Good,Under-7,H
+285,18BD1A0443,NANDITHA BAYANNA,M,Jordan,Jordan,MiddleSchool,G-06,A,English,F,Father,40,38,32,36,No,Bad,Above-7,M
+286,18BD1A0490,MOHAMMAD ALEEMUDDIN SIDDIQUE,M,Jordan,Jordan,MiddleSchool,G-06,A,English,S,Father,41,39,35,39,Yes,Bad,Above-7,M
+287,18BD1A0484,KARTHIK N P,F,Jordan,Jordan,MiddleSchool,G-06,A,English,F,Mum,51,79,85,89,Yes,Good,Under-7,H
+288,18BD1A0429,KODURU SAICHARAN,F,Jordan,Jordan,MiddleSchool,G-06,A,English,S,Mum,81,79,91,85,Yes,Good,Under-7,H
+289,18BD1A0434,KOYYADI ROHITH REDDY,M,Palestine,Jordan,MiddleSchool,G-06,A,English,F,Mum,71,70,65,69,Yes,Good,Under-7,M
+290,18BD1A0416,DIDDI ROSHINI,M,Palestine,Jordan,MiddleSchool,G-06,A,English,S,Mum,75,71,76,80,Yes,Good,Under-7,M
+291,18BD1A0436,M RITISH,F,Jordan,Jordan,lowerlevel,G-04,A,Science,F,Father,49,36,32,44,No,Bad,Above-7,L
+292,18BD1A0488,MEKALA ANUHYA,F,Jordan,Jordan,lowerlevel,G-04,A,Science,S,Father,42,24,12,24,No,Bad,Above-7,L
+293,18BD1A0437,MADDI GAYATHRI SIVA NAGA BRAVARA ANUHYA,F,Palestine,Palestine,lowerlevel,G-04,A,Science,F,Mum,90,86,82,74,Yes,Good,Under-7,H
+294,18BD1A0486,LAKSHYA KODAVALA,F,Palestine,Palestine,lowerlevel,G-04,A,Science,S,Mum,62,64,72,84,Yes,Good,Under-7,H
+295,18BD1A0447,PATTAN SOHAIL KHAN,M,Iraq,Iraq,lowerlevel,G-04,A,Science,F,Father,90,86,82,74,Yes,Good,Above-7,M
+296,18BD1A0441,MIRYALA NEHA,M,Iraq,Iraq,lowerlevel,G-04,A,Science,S,Father,62,64,72,84,Yes,Good,Above-7,M
+297,18BD1A0419,G YESASWINI,F,Jordan,Jordan,lowerlevel,G-04,A,Science,F,Mum,98,87,86,84,No,Good,Under-7,H
+298,18BD1A0480,GUNDARAM ANILKUMAR,F,Jordan,Jordan,lowerlevel,G-04,A,Science,S,Mum,72,74,82,89,No,Good,Under-7,H
+299,18BD1A0427,KANDHI RISHWIK,M,Jordan,Jordan,lowerlevel,G-04,A,Science,F,Father,18,17,26,34,No,Good,Above-7,M
+300,18BD1A0405,ANNAVAJJALA SURYA ANIRUDH,M,Jordan,Jordan,lowerlevel,G-04,A,Science,S,Father,32,14,32,29,No,Good,Above-7,M
+301,18BD1A0425,KALVAKOLANU VYSHNAVI,M,Jordan,Jordan,lowerlevel,G-04,A,Science,F,Father,10,12,20,13,No,Bad,Above-7,L
+302,18BD1A0413,D SHREYA REDDY,M,Jordan,Jordan,lowerlevel,G-04,A,Science,S,Father,22,34,15,9,No,Bad,Above-7,L
+303,18BD1A0444,P JYOTHIRMAYEE,F,Jordan,Jordan,lowerlevel,G-04,B,Science,F,Mum,11,20,21,23,No,Bad,Under-7,M
+304,18BD1A04A2,PARAMAGALLA NARESH,F,Jordan,Jordan,lowerlevel,G-04,B,Science,S,Mum,12,44,25,39,No,Bad,Under-7,M
+305,18BD1A0483,KALLURI HIMACHANDAN,F,Jordan,Jordan,lowerlevel,G-04,B,Science,F,Father,15,50,24,43,Yes,Bad,Under-7,M
+306,18BD1A0433,KORIVI RAVI TEJA,F,Jordan,Jordan,lowerlevel,G-04,B,Science,S,Father,32,44,29,89,Yes,Bad,Under-7,M
+307,18BD1A04B1,SAMBARAJU VIGNESHWAR,M,Jordan,Jordan,lowerlevel,G-04,B,Science,F,Mum,65,59,74,83,Yes,Good,Under-7,H
+308,18BD1A0498,MURABIJJI DEEPTHI,M,Jordan,Jordan,lowerlevel,G-04,B,Science,S,Mum,72,64,59,89,Yes,Good,Under-7,H
+309,18BD1A0415,DANTHURI SAIPRASAD,M,Palestine,Jordan,lowerlevel,G-04,B,Science,F,Mum,95,57,74,89,Yes,Good,Above-7,M
+310,18BD1A0424,AMTUL BARI UZMA,M,Palestine,Jordan,lowerlevel,G-04,B,Science,S,Mum,82,84,79,79,Yes,Good,Above-7,M
+311,18BD1A0494,ATRI NANDAN MANTHANI,M,Jordan,Jordan,lowerlevel,G-04,B,Science,F,Father,25,29,34,33,No,Good,Above-7,M
+312,18BD1A0412,AYENDAPALLY GOUTAM SAI,M,Jordan,Jordan,lowerlevel,G-04,B,Science,S,Father,42,34,29,39,No,Good,Above-7,M
+313,18BD1A0481,BATTA LAKSHMI LIKHITHA,F,Jordan,Jordan,lowerlevel,G-04,B,Science,F,Mum,55,79,44,43,Yes,Good,Under-7,H
+314,18BD1A0448,BATTU SUMANTH RAJU,F,Jordan,Jordan,lowerlevel,G-04,B,Science,S,Mum,62,64,69,49,Yes,Good,Under-7,H
+315,18BD1A0430,BATTULA MANISH REDDY,F,Jordan,lebanon,lowerlevel,G-04,B,Science,F,Mum,78,88,74,83,Yes,Good,Under-7,H
+316,18BD1A04A6,BIJULA AKSHAYA,F,Jordan,lebanon,lowerlevel,G-04,B,Science,S,Mum,72,84,89,89,Yes,Good,Under-7,H
+317,18BD1A0432,C SAMPATI YADAV,M,Jordan,Jordan,lowerlevel,G-02,A,French,F,Mum,60,92,83,23,Yes,Good,Under-7,H
+318,18BD1A0418,DEVULAPALLY ABHINAV,M,Jordan,Jordan,lowerlevel,G-02,A,French,S,Mum,50,90,83,13,Yes,Good,Under-7,H
+319,18BD1A0456,DHAVALA LAKSHMI SANJANA,F,Jordan,Jordan,lowerlevel,G-02,A,French,F,Mum,60,97,13,3,Yes,Good,Under-7,H
+320,18BD1A0440,ESLAVATH SAKKUBAI,F,Jordan,Jordan,lowerlevel,G-02,A,French,S,Mum,50,95,23,10,Yes,Good,Under-7,H
+321,18BD1A0474,ETTA CHAMUNDESHWARI DEVI,F,Jordan,Jordan,lowerlevel,G-02,A,French,F,Mum,60,87,23,11,Yes,Good,Above-7,M
+322,18BD1A0435,GADDAM SAKETH GUPTHA,F,Jordan,Jordan,lowerlevel,G-02,A,French,S,Mum,50,80,20,15,Yes,Good,Above-7,M
+323,18BD1A0403,GANTA SOHAN,M,Jordan,Jordan,lowerlevel,G-02,A,French,F,Father,10,15,10,21,No,Bad,Above-7,L
+324,18BD1A0417,GUDA RESHITHA REDDY,M,Jordan,Jordan,lowerlevel,G-02,A,French,S,Father,30,10,20,5,No,Bad,Above-7,L
+325,18BD1A0438,GUTTHIKONDA VAMSHI KRISHNA,M,Syria,Syria,lowerlevel,G-02,A,French,F,Father,24,35,18,31,No,Bad,Under-7,M
+326,18BD1A0451,K HARSHA TEJ REDDY,M,Syria,Syria,lowerlevel,G-02,A,French,S,Father,27,20,33,35,No,Bad,Under-7,M
+327,18BD1A0420,KOLIPAKA VENKATA SAI HARSHITHA,M,Jordan,Jordan,lowerlevel,G-02,A,French,F,Father,10,15,10,21,No,Bad,Above-7,L
+328,18BD1A0406,KRISHNA KANTH ASAWA,M,Jordan,Jordan,lowerlevel,G-02,A,French,S,Father,30,10,20,5,No,Bad,Above-7,L
+329,18BD1A054U,KUCHANPELLY NIVRUTH,F,Jordan,Palestine,lowerlevel,G-02,A,French,F,Mum,80,77,63,83,Yes,Good,Under-7,M
+330,18BD1A05CR,KUDUMULA ANURAGINI,F,Jordan,Palestine,lowerlevel,G-02,A,French,S,Mum,75,85,73,80,Yes,Good,Under-7,M
+331,18BD1A0552,KUMMARI SWATHI,M,Jordan,Jordan,lowerlevel,G-02,A,French,F,Father,40,7,50,41,No,Good,Above-7,L
+332,18BD1A055W,KUSUMA REVANTH,M,Jordan,Jordan,lowerlevel,G-02,A,French,S,Father,35,2,29,33,No,Good,Above-7,L
+333,18BD1A050P,M PRANEETHA,F,Jordan,Jordan,lowerlevel,G-02,A,French,F,Mum,10,90,30,21,No,Good,Under-7,M
+334,18BD1A05D8,MANTHRI SREEJA REDDY,F,Jordan,Jordan,lowerlevel,G-02,A,French,S,Mum,25,80,29,23,No,Good,Under-7,M
+335,18BD1A05DQ,MARRI THANMAI,M,Lybia,Lybia,lowerlevel,G-02,A,French,F,Mum,10,8,9,3,No,Good,Above-7,L
+336,18BD1A051C,MATTA PREETHAM REDDY,M,Lybia,Lybia,lowerlevel,G-02,A,French,S,Mum,15,7,12,7,No,Good,Above-7,L
+337,18BD1A059L,MEKALA SAI KUMAR,F,Palestine,Jordan,lowerlevel,G-02,A,French,F,Mum,70,90,20,21,No,Good,Under-7,M
+338,18BD1A0538,MOHAMMAD ASADUDDIN,F,Palestine,Jordan,lowerlevel,G-02,A,French,S,Mum,75,80,15,20,No,Good,Under-7,M
+339,18BD1A0536,MUDAVATH SAI KIRAN,F,Palestine,Jordan,lowerlevel,G-02,B,French,F,Father,78,98,10,11,No,Good,Under-7,M
+340,18BD1A056Z,MUKKIDI VIVEKVARDHAN,F,Palestine,Jordan,lowerlevel,G-02,B,French,S,Father,79,89,11,14,No,Good,Under-7,M
+341,18BD1A057T,N AISHWARYA,F,Iraq,Iraq,lowerlevel,G-02,B,French,F,Father,16,90,15,11,No,Good,Under-7,M
+342,18BD1A05DF,NADDUNURI RAMAKANTH,F,Iraq,Iraq,lowerlevel,G-02,B,French,S,Father,17,80,13,10,No,Good,Under-7,M
+343,18BD1A051T,NALLA SAI KEERTHANA,M,Jordan,Jordan,lowerlevel,G-02,B,French,F,Mum,40,87,50,41,No,Bad,Under-7,M
+344,18BD1A05AU,NIKHILESHWAR GOPI,M,Jordan,Jordan,lowerlevel,G-02,B,French,S,Mum,35,92,29,33,No,Bad,Under-7,M
+345,18BD1A058Z,PADALA VIKRAM,F,Jordan,Jordan,lowerlevel,G-02,B,French,F,Mum,14,97,15,14,No,Good,Under-7,H
+346,18BD1A051N,PALADI SAI KUNDAN,F,Jordan,Jordan,lowerlevel,G-02,B,French,F,Mum,13,82,20,30,No,Good,Under-7,H
+347,18BD1A057K,PALLERLA SAI KUMAR,F,Jordan,Jordan,lowerlevel,G-02,B,French,S,Mum,24,97,15,14,No,Good,Under-7,H
+348,18BD1A05B4,PANDALA VAISHNAVI,F,Jordan,Jordan,lowerlevel,G-02,B,French,S,Mum,23,82,20,30,No,Good,Under-7,H
+349,18BD1A059H,RUKVITH REDDY LINGALA,M,Lybia,Lybia,lowerlevel,G-02,B,French,F,Mum,20,3,9,3,No,Good,Above-7,L
+350,18BD1A0593,S SANKETH REDDY,M,Lybia,Lybia,lowerlevel,G-02,B,French,S,Mum,15,4,12,7,No,Good,Above-7,L
+351,18BD1A056R,S.JEEVITESH LAL,M,Egypt,Egypt,lowerlevel,G-02,B,French,F,Mum,5,13,6,6,No,Good,Above-7,L
+352,18BD1A05BQ,SAI PRANEETHA VADAKATTU,M,Egypt,Egypt,lowerlevel,G-02,B,French,S,Mum,7,9,11,10,No,Good,Above-7,L
+353,18BD1A054T,SAMREDDY RAKSHITHA REDDY,F,Jordan,Jordan,lowerlevel,G-02,B,French,F,Mum,10,94,40,11,Yes,Good,Under-7,M
+354,18BD1A05DT,SANKIRTH PABBA,F,Jordan,Jordan,lowerlevel,G-02,B,French,S,Mum,25,89,21,13,Yes,Good,Under-7,M
+355,18BD1A05BH,SHAIK SHASHAVALI BABA,M,Jordan,Jordan,lowerlevel,G-02,B,French,F,Mum,30,98,42,21,Yes,Good,Under-7,H
+356,18BD1A05BK,SRINIJA DEVERSHETTY,M,Jordan,Jordan,lowerlevel,G-02,B,French,S,Mum,35,97,41,23,Yes,Good,Under-7,H
+357,18BD1A05BA,SUMANTH CHOUDARY MUTHINENI,M,Jordan,Jordan,lowerlevel,G-02,B,French,F,Father,32,88,32,25,Yes,Good,Under-7,M
+358,18BD1A052T,T. AYUSHMANN SINGH,M,Jordan,Jordan,lowerlevel,G-02,B,French,S,Father,25,87,21,27,Yes,Good,Under-7,M
+359,18BD1A05AW,T. SREE SOUMITH,F,lebanon,lebanon,lowerlevel,G-02,B,French,F,Mum,72,98,52,15,Yes,Good,Under-7,H
+360,18BD1A056P,TAAK MAMATHA,F,lebanon,lebanon,lowerlevel,G-02,B,French,S,Mum,75,90,51,17,Yes,Good,Under-7,H
+361,18BD1A053G,TAKKALGE VEDANTH,M,Jordan,Jordan,lowerlevel,G-02,A,Arabic,F,Father,20,88,31,28,Yes,Good,Above-7,M
+362,18BD1A059G,TANETI PRATHYUSH BABU,M,Jordan,Jordan,lowerlevel,G-02,A,Arabic,S,Father,10,98,41,38,Yes,Good,Above-7,M
+363,18BD1A05AL,TENUGU VARUN RAJ,M,Palestine,Jordan,lowerlevel,G-02,A,Arabic,F,Father,90,98,41,38,Yes,Good,Under-7,H
+364,18BD1A0597,TIRUMALASETTY SAHITHYA,M,Palestine,Jordan,lowerlevel,G-02,A,Arabic,S,Father,80,88,51,39,Yes,Good,Under-7,H
+365,18BD1A05CX,TWARAKAVI KRISHNA VIHITHA,M,Iraq,Iraq,lowerlevel,G-02,A,Arabic,F,Father,80,95,21,28,Yes,Good,Under-7,H
+366,18BD1A0559,VEMULA PUNEETH SATWIK,M,Iraq,Iraq,lowerlevel,G-02,A,Arabic,S,Father,78,70,31,29,Yes,Good,Under-7,H
+367,18BD1A056M,BITLA SRAVAN,M,Jordan,Jordan,lowerlevel,G-02,A,Arabic,F,Father,10,18,71,38,Yes,Good,Above-7,M
+368,18BD1A059E,BINDU,M,Jordan,Jordan,lowerlevel,G-02,A,Arabic,S,Father,10,58,51,48,Yes,Good,Above-7,M
+369,18BD1A05AT,JABILI,F,Palestine,Jordan,lowerlevel,G-02,A,Arabic,F,Mum,98,88,60,31,No,Good,Under-7,H
+370,18BD1A051H,GANESH,F,Palestine,Jordan,lowerlevel,G-02,A,Arabic,S,Mum,75,81,51,34,No,Good,Under-7,H
+371,18BD1A051W,AKASH,M,Jordan,Jordan,lowerlevel,G-02,A,Arabic,F,Father,10,17,50,21,No,Bad,Under-7,M
+372,18BD1A058Q,NITISH KUMAR,M,Jordan,Jordan,lowerlevel,G-02,A,Arabic,S,Father,35,2,29,23,No,Bad,Under-7,M
+373,18BD1A055J,PAVANI,F,Jordan,Jordan,lowerlevel,G-02,A,Arabic,F,Father,10,20,22,97,No,Bad,Above-7,L
+374,18BD1A0591,PRIYANKA,F,Jordan,Jordan,lowerlevel,G-02,A,Arabic,S,Father,5,9,19,98,No,Bad,Above-7,L
+375,18BD1A059K,SAIKIRAN GOUD,M,Jordan,Jordan,lowerlevel,G-02,B,Arabic,F,Father,10,10,40,51,No,Bad,Above-7,L
+376,18BD1A056V,MAHESH,M,Jordan,Jordan,lowerlevel,G-02,B,Arabic,S,Father,35,2,29,23,No,Bad,Above-7,L
+377,18BD1A05B8,SUCHITH KUMAR,M,Jordan,Jordan,lowerlevel,G-02,B,Arabic,F,Mum,20,90,50,61,Yes,Bad,Above-7,M
+378,18BD1A05DN,PRUDHVI,M,Jordan,Jordan,lowerlevel,G-02,B,Arabic,S,Mum,32,82,59,63,Yes,Bad,Above-7,M
+379,18BD1A055T,REVANTH,M,Jordan,Jordan,lowerlevel,G-02,B,Arabic,F,Father,10,30,50,91,Yes,Bad,Above-7,L
+380,18BD1A050G,SAI KUMAR,M,Jordan,Jordan,lowerlevel,G-02,B,Arabic,S,Father,12,22,59,83,Yes,Bad,Above-7,L
+381,18BD1A054Z,NAVEEN KUMAR,F,Jordan,Jordan,lowerlevel,G-02,B,Arabic,F,Father,11,20,20,98,No,Bad,Above-7,L
+382,18BD1A0514,SAINATH,F,Jordan,Jordan,lowerlevel,G-02,B,Arabic,S,Father,10,12,29,93,No,Bad,Above-7,L
+383,18BD1A057L,PRUDHVIRAJ,M,Iraq,Iraq,lowerlevel,G-02,B,Arabic,F,Mum,69,82,20,28,Yes,Good,Under-7,H
+384,18BD1A059N,SAITEJA,M,Iraq,Iraq,lowerlevel,G-02,B,Arabic,S,Mum,70,83,29,33,Yes,Good,Under-7,H
+385,18BD1A05DG,DIVYA,F,Iraq,Iraq,lowerlevel,G-02,B,Arabic,F,Mum,89,92,40,28,Yes,Good,Under-7,H
+386,18BD1A058Y,ARAVIND KUMAR,F,Iraq,Iraq,lowerlevel,G-02,B,Arabic,S,Mum,79,93,49,23,Yes,Good,Under-7,H
+387,18BD1A050J,RAM PRASAD,M,Jordan,Jordan,lowerlevel,G-02,B,Arabic,F,Mum,15,90,21,97,Yes,Good,Under-7,M
+388,18BD1A054Y,PROHIT,M,Jordan,Jordan,lowerlevel,G-02,B,Arabic,S,Mum,20,77,31,88,Yes,Good,Under-7,M
+389,18BD1A057P,NIKHIL SAI,M,Jordan,SaudiArabia,lowerlevel,G-02,B,Arabic,F,Mum,4,10,11,7,No,Good,Above-7,L
+390,18BD1A051Q,KAVYA,M,Jordan,SaudiArabia,lowerlevel,G-02,B,Arabic,S,Mum,5,0,1,8,No,Good,Above-7,L
+391,18BD1A057D,NAGENDAR,F,Jordan,Jordan,MiddleSchool,G-07,A,Biology,F,Mum,88,81,50,10,Yes,Good,Above-7,M
+392,18BD1A0531,PONNAM MADHU,F,Jordan,Jordan,MiddleSchool,G-07,A,Biology,S,Mum,90,88,54,12,Yes,Good,Above-7,M
+393,18BD1A053H,SRICHARAN VARMA,F,Iraq,Iraq,MiddleSchool,G-07,A,Biology,F,Mum,86,98,50,20,Yes,Good,Under-7,H
+394,18BD1A057J,A SAI PRIANSH GOUD,F,Iraq,Iraq,MiddleSchool,G-07,A,Biology,S,Mum,90,90,57,22,Yes,Good,Under-7,H
+395,18BD1A057W,AKKU RONITH KRISHNA,M,Jordan,Palestine,MiddleSchool,G-07,A,Biology,F,Mum,78,91,50,40,Yes,Good,Under-7,H
+396,18BD1A0599,ALLENKI KRUPA,M,Jordan,Palestine,MiddleSchool,G-07,A,Biology,S,Mum,70,98,54,72,Yes,Good,Under-7,H
+397,18BD1A0598,APPANA BOYANA SAI DHEERAJ KRISHNA,M,Jordan,Jordan,MiddleSchool,G-07,A,Biology,F,Father,80,80,46,61,Yes,Bad,Under-7,M
+398,18BD1A050W,B ROCHAN SINGH,M,Jordan,Jordan,MiddleSchool,G-07,A,Biology,S,Father,85,82,59,63,Yes,Bad,Under-7,M
+399,18BD1A1254,bhunedri eshwar,M,Palestine,Palestine,MiddleSchool,G-07,A,Biology,F,Father,88,90,86,81,Yes,Good,Under-7,H
+400,18BD1A058N,BINDI AKSHITH GOUD,M,Palestine,Palestine,MiddleSchool,G-07,A,Biology,S,Father,89,92,89,83,Yes,Good,Under-7,H
+401,18BD1A05AY,BITLA HARSHAVARDHAN,M,Jordan,Jordan,MiddleSchool,G-07,A,Biology,F,Father,39,71,40,26,No,Good,Above-7,M
+402,18BD1A050R,CH SAHITHI REDDY,M,Jordan,Jordan,MiddleSchool,G-07,A,Biology,S,Father,35,80,34,22,No,Good,Above-7,M
+403,18BD1A05BD,CHALLA SOUMMITH,M,Jordan,Jordan,MiddleSchool,G-07,A,Biology,F,Father,76,81,80,86,No,Good,Under-7,H
+404,18BD1A052Q,CHILAKARAJU RADHIKA,M,Jordan,Jordan,MiddleSchool,G-07,A,Biology,S,Father,65,89,64,82,No,Good,Under-7,H
+405,18BD1A050U,DADI BINDU MADHAV,F,Syria,Syria,MiddleSchool,G-07,A,Biology,F,Mum,96,95,70,70,Yes,Good,Under-7,H
+406,18BD1A050Z,DEVANSHI P MEHTA,F,Syria,Syria,MiddleSchool,G-07,A,Biology,S,Mum,80,91,87,72,Yes,Good,Under-7,H
+407,18BD1A05BN,E MANISH,M,Jordan,Jordan,MiddleSchool,G-07,A,Biology,F,Mum,2,9,10,1,No,Bad,Above-7,L
+408,18BD1A055Q,GADAM SWEEYA,M,Jordan,Jordan,MiddleSchool,G-07,A,Biology,S,Mum,3,8,19,3,No,Bad,Above-7,L
+409,18BD1A051A,GOPU MARY ASHWITHA,M,Jordan,Jordan,MiddleSchool,G-07,B,Biology,F,Father,50,79,10,31,No,Bad,Under-7,M
+410,18BD1A05BP,GUMMIDI PADMAVATHI,M,Jordan,Jordan,MiddleSchool,G-07,B,Biology,S,Father,53,88,9,33,No,Bad,Under-7,M
+411,18BD1A053F,JALA SAI SRIRAJ,F,Jordan,Jordan,MiddleSchool,G-07,B,Biology,F,Mum,70,89,12,21,No,Good,Under-7,H
+412,18BD1A05BB,JOGINIPELLY SAI TEJA,F,Jordan,Jordan,MiddleSchool,G-07,B,Biology,S,Mum,59,90,19,43,No,Good,Under-7,H
+413,18BD1A0553,KADIUM MANISHA,M,Palestine,Jordan,MiddleSchool,G-07,B,Biology,F,Father,78,80,66,51,Yes,Good,Under-7,M
+414,18BD1A05D1,KASANI JAYASIMHA,M,Palestine,Jordan,MiddleSchool,G-07,B,Biology,S,Father,79,72,79,83,Yes,Good,Under-7,M
+415,18BD1A056U,KOMATIREDDY NITHIN REDDY,F,Lybia,Lybia,MiddleSchool,G-07,B,Biology,F,Mum,10,9,2,1,No,Good,Above-7,L
+416,18BD1A050T,KONDAPALLY AKSHAY,F,Lybia,Lybia,MiddleSchool,G-07,B,Biology,S,Mum,9,7,9,3,No,Good,Above-7,L
+417,18BD1A050Q,MADDIKUNTLA NITHYA SRI REDDY,M,Iraq,Iraq,MiddleSchool,G-07,B,Biology,F,Father,98,90,86,71,Yes,Good,Under-7,H
+418,18BD1A050X,MEKALA TANISHQ,M,Iraq,Iraq,MiddleSchool,G-07,B,Biology,S,Father,89,92,89,83,Yes,Good,Under-7,H
+419,18BD1A0513,MOHD YASEEN AHMED,M,Palestine,Jordan,MiddleSchool,G-07,B,Biology,F,Father,88,90,76,81,Yes,Good,Under-7,H
+420,18BD1A0578,MOHD ZABEE UR RAHMAN,M,Palestine,Jordan,MiddleSchool,G-07,B,Biology,S,Father,99,96,89,84,Yes,Good,Under-7,H
+421,18BD1A0537,MYLAVARAPU LOKESH,F,Jordan,Jordan,MiddleSchool,G-08,A,Chemistry,F,Mum,82,89,22,31,Yes,Good,Under-7,H
+422,18BD1A058V,N ROHITH TEJA,F,Jordan,Jordan,MiddleSchool,G-08,A,Chemistry,S,Mum,84,92,29,43,Yes,Good,Under-7,H
+423,18BD1A0572,NADIKUDE MANISH,F,Jordan,Jordan,MiddleSchool,G-08,A,Geology,F,Mum,70,69,46,45,Yes,Good,Above-7,M
+424,18BD1A058T,NEELAPALA MOHAN CHAND,F,Jordan,Jordan,MiddleSchool,G-08,A,Geology,S,Mum,74,62,49,43,Yes,Good,Above-7,M
+425,18BD1A052V,NISHCHAL SINGI,F,Jordan,Jordan,MiddleSchool,G-08,A,Geology,F,Mum,90,79,76,79,Yes,Good,Under-7,H
+426,18BD1A05CY,NITESH CHOKKARAPU,F,Jordan,Jordan,MiddleSchool,G-08,A,Geology,S,Mum,84,77,79,68,Yes,Good,Under-7,H
+427,18BD1A05CM,P SAI VARSHITH,M,Jordan,Jordan,MiddleSchool,G-08,A,Chemistry,F,Mum,80,80,62,11,Yes,Good,Above-7,M
+428,18BD1A05DL,PADAKANTI ADITHYA REDDY,M,Jordan,Jordan,MiddleSchool,G-08,A,Chemistry,S,Mum,81,82,69,13,Yes,Good,Above-7,M
+429,18BD1A051E,PADALA MALAVIKA,M,Jordan,SaudiArabia,MiddleSchool,G-08,A,Chemistry,F,Father,10,0,2,41,No,Bad,Above-7,L
+430,18BD1A05BC,PARVATANENI TRISHOOL,M,Jordan,SaudiArabia,MiddleSchool,G-08,A,Chemistry,S,Father,11,2,9,49,No,Bad,Above-7,L
+431,18BD1A057F,PASHAM JAYA KRISHNA,M,Jordan,SaudiArabia,MiddleSchool,G-08,A,Geology,F,Father,85,89,22,61,No,Bad,Under-7,H
+432,18BD1A05B2,PIPPADAPALLY SHIVAKETHAKI,M,Jordan,SaudiArabia,MiddleSchool,G-08,A,Geology,S,Father,80,89,23,68,No,Bad,Under-7,H
+433,18BD1A050L,PRANATHI SUDHIREDDY,M,Jordan,SaudiArabia,MiddleSchool,G-08,A,Geology,F,Father,95,87,62,81,No,Bad,Under-7,M
+434,18BD1A051U,PREKSHA ADDAGATLA,M,Jordan,SaudiArabia,MiddleSchool,G-08,A,Geology,S,Father,87,79,73,98,No,Bad,Under-7,M
+435,18BD1A059D,PUDURI PHANINDRA,M,Jordan,Jordan,MiddleSchool,G-08,A,Chemistry,F,Mum,85,87,72,10,Yes,Good,Above-7,M
+436,18BD1A05D3,PULIPAKA SRUJITH,M,Jordan,Jordan,MiddleSchool,G-08,A,Chemistry,S,Mum,79,88,79,20,Yes,Good,Above-7,M
+437,18BD1A059Q,R M AKSHAY KUMAR,M,Jordan,Jordan,MiddleSchool,G-08,A,Geology,F,Mum,80,81,71,30,Yes,Good,Under-7,M
+438,18BD1A05D4,RACHAKONDA ABHISHEK,M,Jordan,Jordan,MiddleSchool,G-08,A,Geology,S,Mum,70,83,70,23,Yes,Good,Under-7,M
+439,18BD1A05D7,RAJURI SAMEEKSHA,M,Jordan,Jordan,MiddleSchool,G-08,A,Chemistry,F,Mum,80,82,76,19,Yes,Good,Under-7,M
+440,18BD1A059P,RAMELLI ADITHYA,M,Jordan,Jordan,MiddleSchool,G-08,A,Chemistry,S,Mum,70,82,75,29,Yes,Good,Under-7,M
+441,18BD1A051G,SACHIN JAIN,M,Jordan,Jordan,MiddleSchool,G-08,A,Geology,F,Mum,89,87,86,15,Yes,Good,Under-7,M
+442,18BD1A059B,SADULA KEERTHI,M,Jordan,Jordan,MiddleSchool,G-08,A,Geology,S,Mum,90,86,85,10,Yes,Good,Under-7,M
+443,18BD1A05D2,SAI SARATH CHANDRA MURTHY,M,Jordan,Jordan,MiddleSchool,G-08,A,History,F,Mum,69,77,76,75,Yes,Good,Above-7,M
+444,18BD1A051J,SANKALAPURAM ADARSH KUMAR,M,Jordan,Jordan,MiddleSchool,G-08,A,History,S,Mum,70,76,65,70,Yes,Good,Above-7,M
+445,18BD1A053Q,SANKINENI HRITHIKESH,M,Jordan,Jordan,MiddleSchool,G-08,A,Chemistry,F,Mum,75,72,64,39,Yes,Good,Above-7,L
+446,18BD1A058P,SANKSHAY PUSA,M,Jordan,Jordan,MiddleSchool,G-08,A,Chemistry,S,Mum,72,76,66,40,Yes,Good,Above-7,L
+447,18BD1A053V,SHAIK AZEEZ,M,Jordan,Jordan,MiddleSchool,G-08,A,Geology,F,Mum,77,82,74,79,Yes,Good,Under-7,M
+448,18BD1A0592,SIDDHARTH UNIYAL,M,Jordan,Jordan,MiddleSchool,G-08,A,Geology,S,Mum,71,84,67,80,Yes,Good,Under-7,M
+449,18BD1A056W,SURYAPETA SHRUTHI SHREE,M,Jordan,Jordan,MiddleSchool,G-08,A,History,F,Mum,87,92,74,89,Yes,Good,Under-7,H
+450,18BD1A0555,SYPUREDDY HEMANTH PAVAN KUMAR,M,Jordan,Jordan,MiddleSchool,G-08,A,History,S,Mum,81,84,77,85,Yes,Good,Under-7,H
+451,18BD1A05AM,VAKA GEETHIKA,F,Jordan,Jordan,MiddleSchool,G-08,A,Chemistry,F,Father,15,97,22,10,Yes,Good,Under-7,H
+452,18BD1A052Y,YASA NANDINI,F,Jordan,Jordan,MiddleSchool,G-08,A,Chemistry,S,Father,19,98,20,2,Yes,Good,Under-7,H
+453,18BD1A052U,SAI SHARAN,F,Jordan,Jordan,MiddleSchool,G-08,A,Geology,F,Father,25,82,52,20,Yes,Good,Above-7,M
+454,18BD1A0574,REVANTH,F,Jordan,Jordan,MiddleSchool,G-08,A,Geology,S,Father,29,78,40,12,Yes,Good,Above-7,M
+455,18BD1A050D,G SHALINI,F,Jordan,Jordan,MiddleSchool,G-08,A,History,F,Father,45,87,57,80,Yes,Good,Under-7,M
+456,18BD1A05CQ,LIKHITHA SRIPATHI,F,Jordan,Jordan,MiddleSchool,G-08,A,History,S,Father,39,88,43,72,Yes,Good,Under-7,M
+457,18BD1A050V,N F ABISHAI JOE,F,Jordan,Jordan,MiddleSchool,G-08,A,Chemistry,F,Father,85,90,52,30,Yes,Good,Under-7,H
+458,18BD1A053C,BITLA JEEVAN KUMAR,F,Jordan,Jordan,MiddleSchool,G-08,A,Chemistry,S,Father,79,91,49,22,Yes,Good,Under-7,H
+459,18BD1A051R,CHOTOPALLY VENKATESWARA RAO,M,Iraq,Iraq,MiddleSchool,G-08,A,Chemistry,F,Father,90,91,80,81,Yes,Good,Under-7,H
+460,18BD1A05AV,MANNE MANIKANTA,M,Iraq,Iraq,MiddleSchool,G-08,A,Chemistry,S,Father,80,90,80,83,Yes,Good,Under-7,H
+461,18BD1A05CW,AEDDLA SOWMYA,M,Iraq,Iraq,MiddleSchool,G-08,A,Geology,F,Father,80,83,82,71,Yes,Good,Above-7,M
+462,18BD1A051P,AMTUL BARI UZMA,M,Iraq,Iraq,MiddleSchool,G-08,A,Geology,S,Father,71,81,83,72,Yes,Good,Above-7,M
+463,18BD1A055E,ATRI NANDAN MANTHANI,M,Iraq,Iraq,MiddleSchool,G-08,A,History,F,Father,72,87,72,89,Yes,Good,Above-7,M
+464,18BD1A05B6,AYENDAPALLY GOUTAM SAI,M,Iraq,Iraq,MiddleSchool,G-08,A,History,S,Father,69,77,83,92,Yes,Good,Above-7,M
+465,18BD1A0533,BATTA LAKSHMI LIKHITHA,F,Jordan,Jordan,MiddleSchool,G-08,A,Chemistry,F,Mum,85,99,42,90,Yes,Good,Under-7,H
+466,18BD1A05BM,BATTU SUMANTH RAJU,F,Jordan,Jordan,MiddleSchool,G-08,A,Chemistry,S,Mum,89,96,45,92,Yes,Good,Under-7,H
+467,18BD1A053B,BATTULA MANISH REDDY,F,Jordan,Jordan,MiddleSchool,G-08,A,Geology,F,Mum,80,82,64,58,Yes,Good,Under-7,H
+468,18BD1A0512,BIJULA AKSHAYA,F,Jordan,Jordan,MiddleSchool,G-08,A,Geology,S,Mum,87,93,63,60,Yes,Good,Under-7,H
+469,18BD1A0576,C SAMPATI YADAV,F,Jordan,Jordan,MiddleSchool,G-08,A,Chemistry,F,Father,15,9,14,80,No,Bad,Above-7,L
+470,18BD1A058X,DEVULAPALLY ABHINAV,F,Jordan,Jordan,MiddleSchool,G-08,A,Chemistry,S,Father,9,6,15,85,No,Bad,Above-7,L
+471,18BD1A0594,DHAVALA LAKSHMI SANJANA,M,Palestine,Jordan,MiddleSchool,G-08,A,History,F,Father,81,86,86,41,Yes,Good,Under-7,M
+472,18BD1A058R,ESLAVATH SAKKUBAI,M,Palestine,Jordan,MiddleSchool,G-08,A,History,S,Father,78,82,78,53,Yes,Good,Under-7,M
+473,18BD1A05CH,ETTA CHAMUNDESHWARI DEVI,M,Palestine,Palestine,MiddleSchool,G-08,A,Geology,F,Father,80,87,74,68,Yes,Good,Under-7,M
+474,18BD1A054X,GADDAM SAKETH GUPTHA,M,Palestine,Palestine,MiddleSchool,G-08,A,Geology,S,Father,85,88,79,70,Yes,Good,Under-7,M
+475,18BD1A057H,GANTA SOHAN,F,Jordan,Jordan,MiddleSchool,G-08,A,Chemistry,F,Father,2,7,4,8,No,Bad,Above-7,L
+476,18BD1A05CP,GUDA RESHITHA REDDY,F,Jordan,Jordan,MiddleSchool,G-08,A,Chemistry,S,Father,5,4,5,8,No,Bad,Above-7,L
+477,18BD1A1054,GUTTHIKONDA VAMSHI KRISHNA,F,Jordan,Jordan,MiddleSchool,G-08,A,Geology,F,Father,50,77,14,28,No,Bad,Under-7,M
+478,18BD1A1041,K HARSHA TEJ REDDY,F,Jordan,Jordan,MiddleSchool,G-08,A,Geology,S,Father,55,74,25,29,No,Bad,Under-7,M
+479,18BD1A1035,KOLIPAKA VENKATA SAI HARSHITHA,F,Jordan,Jordan,MiddleSchool,G-08,A,History,F,Father,30,17,14,57,No,Bad,Above-7,L
+480,18BD1A1033,KRISHNA KANTH ASAWA,F,Jordan,Jordan,MiddleSchool,G-08,A,History,S,Father,35,14,23,62,No,Bad,Above-7,L
